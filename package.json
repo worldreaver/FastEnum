@@ -1,0 +1,16 @@
+{
+  "name": "com.worldreaver.fastenum",
+  "displayName": "FastEnum",
+  "description": "The world fastest enum utilities for C#/.NET, Unity",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "author": "yenmoc <phongsoyenmoc.diep@gmail.com> (https://github.com/phongsoyenmoc)",
+  "license": "MIT",
+  "dependencies": {
+  	"com.worldreaver.systemmemory": "ssh://git@github.com/worldreaver/SystemMemory#4.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worldreaver/FastEnum"
+  }
+}
