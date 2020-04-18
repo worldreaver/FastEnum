@@ -4,7 +4,7 @@
     "com.coffee.upm-git-extension": "https://github.com/mob-sakai/UpmGitExtension.git",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.1.4",
-    "com.unity.test-framework": "1.1.11",
+    "com.unity.test-framework": "1.1.13",
     "com.unity.ugui": "1.0.0",
     "com.worldreaver.systemmemory": "git+https://github.com/worldreaver/SystemMemory#4.5.3",
     "com.unity.modules.ai": "1.0.0",
